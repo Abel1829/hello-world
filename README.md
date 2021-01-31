@@ -1,5 +1,5 @@
 # hello-world
 
-hello everybody!
+Hello Everybody!
 
-this is abel am informing you that we are shifting to phyton 
+This is Abel am informing you that we are shifting to phyton 
